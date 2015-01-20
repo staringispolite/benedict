@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Alex Baldwin <alexbaldwin@gmail.com>",
-  "description": "Poached egg + english muffin + hollandais=",
+  "description": "Poached egg + english muffin + hollandaise sauce.",
   "dependencies": {
     "hubot": "^2.11.0",
     "hubot-diagnostics": "0.0.1",
